@@ -1,8 +1,8 @@
-#!/usr/bin/php5
+#!/usr/bin/php
 <?php
 
 /* ------------------------------------------------------
-Version		: 1.0.2
+Version		: 1.0.3
 
 Part of bigls 	: https://github.com/sufehmi/bigls
 

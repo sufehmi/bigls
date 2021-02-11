@@ -1,10 +1,10 @@
-#!/usr/bin/php5
+#!/usr/bin/php
 <?php
 
 /* ------------------------------------------------------
 	bigls 		: https://github.com/sufehmi/bigls
 
-        version		: 1.0.2
+        version		: 1.0.3
 
         license		: GPL v2
 			  http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
@@ -18,7 +18,7 @@
 
 // ------------------- VARIABLES --------------------------------
 
-$version 	= "bigls 1.0.2
+$version 	= "bigls 1.0.3
 
 Copyright (C) 2013 Harry Sufehmi.
 License GPLv2: GNU GPL version 2 <http://www.gnu.org/licenses/old-licenses/gpl-2.0.html>.
